@@ -1,3 +1,4 @@
-print("hi")
-print("hello")
-print("new")
+print("hiiiiiiiiiiiiiiiiiiiiiiii")
+print("helloooooooooooooooooo")
+print("newwwwwwwwwwwwwwwwwwwwwwww")
+print("gooooooooooooooooooooo")
